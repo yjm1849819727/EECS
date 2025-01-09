@@ -10,7 +10,5 @@ This is Chongxin College MIT EECS6.01 course code，our **team members**:
 虽然我也一直在用的是这个哈哈哈哈哈哈哈哈哈
 这个里面的Sl和DL，或许只有最后一次Dl比较好，可以直接用
 哈哈哈哈哈我还是满骄傲的哈，好多组都用了我们组的代码哈哈哈
-这是一个小小的展示视频，不知道是否可以在你的浏览器上正常播放
-<video width="320" height="240" controls>
-  <source src="./picture/demo.mp4" type="video/mp4">
-</video>
+这是一个小小的展示视频
+https://github.com/user-attachments/assets/59e70cd6-0683-487f-b13f-123e72c623c1
